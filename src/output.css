@@ -678,6 +678,10 @@ video {
   background-position: 15px;
 }
 
+.bg-right {
+  background-position: right;
+}
+
 .bg-no-repeat {
   background-repeat: no-repeat;
 }
